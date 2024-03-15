@@ -6,7 +6,7 @@ Check your Internet speed in under 30 seconds.
 This application is allow to check multiple times.
 
 ## below is the link for the project
-# [click here](https://mantuk360.github.io/Internet-Speed-Meter/)
+# [click here](https://mantuk360.github.io/Internet-Speed_Meter/)
 
 
 # Screenshot
